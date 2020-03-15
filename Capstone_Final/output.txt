@@ -1,0 +1,1084 @@
+Transaction Status: FRAUD
+
+----------------------------------------------------
+
+Card ID:            379415836364353
+Member ID:          983390343419665
+Amount:             5210740
+POS ID:             151189172414384
+Post Code:          96127
+Transaction Date:   02-08-2018 02:33:11
+Transaction Status: FRAUD
+
+----------------------------------------------------
+
+Card ID:            379415836364353
+Member ID:          983390343419665
+Amount:             3515672
+POS ID:             158323421698417
+Post Code:          21009
+Transaction Date:   06-07-2018 09:06:50
+Transaction Status: FRAUD
+
+----------------------------------------------------
+
+Card ID:            379415836364353
+Member ID:          983390343419665
+Amount:             7987981
+POS ID:             814074322288954
+Post Code:          19951
+Transaction Date:   13-06-2018 00:24:54
+Transaction Status: FRAUD
+
+----------------------------------------------------
+
+Card ID:            379415836364353
+Member ID:          983390343419665
+Amount:             3926184
+POS ID:             182030362598314
+Post Code:          50658
+Transaction Date:   15-02-2018 04:15:02
+Transaction Status: FRAUD
+
+----------------------------------------------------
+
+Card ID:            379415836364353
+Member ID:          983390343419665
+Amount:             6409315
+POS ID:             989641669479939
+Post Code:          98645
+Transaction Date:   21-08-2018 10:03:51
+Transaction Status: FRAUD
+
+----------------------------------------------------
+
+Card ID:            4971181862764011
+Member ID:          985095728641698
+Amount:             3881822
+POS ID:             120077717357675
+Post Code:          50423
+Transaction Date:   01-06-2018 08:03:57
+Transaction Status: FRAUD
+
+----------------------------------------------------
+
+Card ID:            4971181862764011
+Member ID:          985095728641698
+Amount:             7571114
+POS ID:             597095066824702
+Post Code:          50115
+Transaction Date:   03-08-2018 13:41:25
+Transaction Status: FRAUD
+
+----------------------------------------------------
+
+Card ID:            4971181862764011
+Member ID:          985095728641698
+Amount:             943612
+POS ID:             29746854743168
+Post Code:          73947
+Transaction Date:   06-09-2018 11:04:38
+Transaction Status: FRAUD
+
+----------------------------------------------------
+
+Card ID:            4971181862764011
+Member ID:          985095728641698
+Amount:             2468994
+POS ID:             233661213268195
+Post Code:          75651
+Transaction Date:   06-11-2018 21:20:28
+Transaction Status: FRAUD
+
+----------------------------------------------------
+
+Card ID:            4971181862764011
+Member ID:          985095728641698
+Amount:             2163490
+POS ID:             614231359976522
+Post Code:          60477
+Transaction Date:   11-06-2018 10:17:15
+Transaction Status: FRAUD
+
+----------------------------------------------------
+
+Card ID:            4971181862764011
+Member ID:          985095728641698
+Amount:             3428238
+POS ID:             611254837793424
+Post Code:          12050
+Transaction Date:   25-10-2018 17:01:49
+Transaction Status: FRAUD
+
+----------------------------------------------------
+
+Card ID:            4971181862764011
+Member ID:          985095728641698
+Amount:             4378108
+POS ID:             155275712259358
+Post Code:          28619
+Transaction Date:   26-05-2018 14:30:27
+Transaction Status: FRAUD
+
+----------------------------------------------------
+
+Card ID:            4971181862764011
+Member ID:          985095728641698
+Amount:             7799840
+POS ID:             405730865619966
+Post Code:          73645
+Transaction Date:   28-02-2018 20:26:47
+Transaction Status: FRAUD
+
+----------------------------------------------------
+
+Card ID:            6573615549671948
+Member ID:          985619195348046
+Amount:             303427
+POS ID:             466135126399655
+Post Code:          54933
+Transaction Date:   02-05-2018 20:50:16
+Transaction Status: FRAUD
+
+----------------------------------------------------
+
+Card ID:            6573615549671948
+Member ID:          985619195348046
+Amount:             4609915
+POS ID:             422087405024934
+Post Code:          24894
+Transaction Date:   04-10-2018 09:40:22
+Transaction Status: FRAUD
+
+----------------------------------------------------
+
+Card ID:            6573615549671948
+Member ID:          985619195348046
+Amount:             1047510
+POS ID:             488398031115120
+Post Code:          28705
+Transaction Date:   12-03-2018 00:05:11
+Transaction Status: FRAUD
+
+----------------------------------------------------
+
+Card ID:            6573615549671948
+Member ID:          985619195348046
+Amount:             6864963
+POS ID:             433030002029316
+Post Code:          55704
+Transaction Date:   14-09-2018 02:14:20
+Transaction Status: FRAUD
+
+----------------------------------------------------
+
+Card ID:            6573615549671948
+Member ID:          985619195348046
+Amount:             2244889
+POS ID:             234983751061961
+Post Code:          75681
+Transaction Date:   16-09-2018 04:19:40
+Transaction Status: FRAUD
+
+----------------------------------------------------
+
+Card ID:            6573615549671948
+Member ID:          985619195348046
+Amount:             146467
+POS ID:             150009367792828
+Post Code:          89704
+Transaction Date:   17-07-2018 04:31:49
+Transaction Status: FRAUD
+
+----------------------------------------------------
+
+Card ID:            4256656637307408
+Member ID:          987837606639725
+Amount:             6882485
+POS ID:             869920119755319
+Post Code:          54762
+Transaction Date:   02-10-2018 06:05:19
+Transaction Status: FRAUD
+
+----------------------------------------------------
+
+Card ID:            4256656637307408
+Member ID:          987837606639725
+Amount:             3807079
+POS ID:             180927714122509
+Post Code:          22432
+Transaction Date:   09-07-2018 08:53:00
+Transaction Status: FRAUD
+
+----------------------------------------------------
+
+Card ID:            4256656637307408
+Member ID:          987837606639725
+Amount:             2441341
+POS ID:             931863150589714
+Post Code:          12130
+Transaction Date:   12-02-2018 15:50:56
+Transaction Status: FRAUD
+
+----------------------------------------------------
+
+Card ID:            4256656637307408
+Member ID:          987837606639725
+Amount:             7586360
+POS ID:             208366829117918
+Post Code:          50112
+Transaction Date:   15-09-2018 12:37:42
+Transaction Status: FRAUD
+
+----------------------------------------------------
+
+Card ID:            4256656637307408
+Member ID:          987837606639725
+Amount:             451998
+POS ID:             679756432695942
+Post Code:          28656
+Transaction Date:   17-06-2018 13:33:52
+Transaction Status: FRAUD
+
+----------------------------------------------------
+
+Card ID:            4256656637307408
+Member ID:          987837606639725
+Amount:             3865027
+POS ID:             213731662059449
+Post Code:          19014
+Transaction Date:   18-07-2018 23:08:37
+Transaction Status: FRAUD
+
+----------------------------------------------------
+
+Card ID:            4256656637307408
+Member ID:          987837606639725
+Amount:             9468852
+POS ID:             69739488392140
+Post Code:          95471
+Transaction Date:   22-04-2018 21:36:22
+Transaction Status: FRAUD
+
+----------------------------------------------------
+
+Card ID:            4256656637307408
+Member ID:          987837606639725
+Amount:             6729369
+POS ID:             755139774421614
+Post Code:          74048
+Transaction Date:   27-11-2018 01:02:14
+Transaction Status: FRAUD
+
+----------------------------------------------------
+
+Card ID:            4738977471328351
+Member ID:          988661034778977
+Amount:             8442996
+POS ID:             90181222674453
+Post Code:          70517
+Transaction Date:   08-07-2018 02:13:54
+Transaction Status: FRAUD
+
+----------------------------------------------------
+
+Card ID:            4738977471328351
+Member ID:          988661034778977
+Amount:             8109050
+POS ID:             764554927211895
+Post Code:          67060
+Transaction Date:   13-03-2018 18:41:59
+Transaction Status: FRAUD
+
+----------------------------------------------------
+
+Card ID:            4738977471328351
+Member ID:          988661034778977
+Amount:             9802725
+POS ID:             781177388484664
+Post Code:          45323
+Transaction Date:   13-05-2018 19:14:41
+Transaction Status: FRAUD
+
+----------------------------------------------------
+
+Card ID:            4738977471328351
+Member ID:          988661034778977
+Amount:             5924980
+POS ID:             280801144506823
+Post Code:          92301
+Transaction Date:   15-03-2018 02:05:56
+Transaction Status: FRAUD
+
+----------------------------------------------------
+
+Card ID:            4738977471328351
+Member ID:          988661034778977
+Amount:             765916
+POS ID:             919651444044274
+Post Code:          96103
+Transaction Date:   19-06-2018 08:55:31
+Transaction Status: FRAUD
+
+----------------------------------------------------
+
+Card ID:            4738977471328351
+Member ID:          988661034778977
+Amount:             605777
+POS ID:             287076720518007
+Post Code:          43158
+Transaction Date:   23-04-2018 07:19:30
+Transaction Status: FRAUD
+
+----------------------------------------------------
+
+Card ID:            4232502178358286
+Member ID:          988666952112281
+Amount:             1758001
+POS ID:             160912716940539
+Post Code:          74759
+Transaction Date:   06-05-2018 13:48:07
+Transaction Status: FRAUD
+
+----------------------------------------------------
+
+Card ID:            4232502178358286
+Member ID:          988666952112281
+Amount:             8494795
+POS ID:             651146087914259
+Post Code:          36763
+Transaction Date:   06-07-2018 22:34:14
+Transaction Status: FRAUD
+
+----------------------------------------------------
+
+Card ID:            4232502178358286
+Member ID:          988666952112281
+Amount:             5820597
+POS ID:             257860837136417
+Post Code:          32751
+Transaction Date:   08-07-2018 13:26:44
+Transaction Status: FRAUD
+
+----------------------------------------------------
+
+Card ID:            4232502178358286
+Member ID:          988666952112281
+Amount:             2578457
+POS ID:             896513719789387
+Post Code:          24060
+Transaction Date:   10-04-2018 03:50:19
+Transaction Status: FRAUD
+
+----------------------------------------------------
+
+Card ID:            4232502178358286
+Member ID:          988666952112281
+Amount:             9850287
+POS ID:             569484869415968
+Post Code:          11569
+Transaction Date:   12-07-2018 16:52:34
+Transaction Status: FRAUD
+
+----------------------------------------------------
+
+Card ID:            4232502178358286
+Member ID:          988666952112281
+Amount:             2230946
+POS ID:             242877299562933
+Post Code:          74079
+Transaction Date:   16-06-2018 19:37:19
+Transaction Status: FRAUD
+
+----------------------------------------------------
+
+Card ID:            4232502178358286
+Member ID:          988666952112281
+Amount:             203274
+POS ID:             643155243491376
+Post Code:          34447
+Transaction Date:   21-11-2018 13:27:35
+Transaction Status: FRAUD
+
+----------------------------------------------------
+
+Card ID:            4232502178358286
+Member ID:          988666952112281
+Amount:             7696824
+POS ID:             849165857693201
+Post Code:          56550
+Transaction Date:   29-07-2018 20:03:19
+Transaction Status: FRAUD
+
+----------------------------------------------------
+
+Card ID:            378001698534979
+Member ID:          989174793157941
+Amount:             9502318
+POS ID:             533259469490504
+Post Code:          39080
+Transaction Date:   05-10-2018 07:21:12
+Transaction Status: FRAUD
+
+----------------------------------------------------
+
+Card ID:            378001698534979
+Member ID:          989174793157941
+Amount:             3982847
+POS ID:             8884680610596
+Post Code:          41360
+Transaction Date:   08-06-2018 11:15:56
+Transaction Status: FRAUD
+
+----------------------------------------------------
+
+Card ID:            378001698534979
+Member ID:          989174793157941
+Amount:             3287765
+POS ID:             37857228825237
+Post Code:          20763
+Transaction Date:   09-09-2018 05:36:48
+Transaction Status: FRAUD
+
+----------------------------------------------------
+
+Card ID:            378001698534979
+Member ID:          989174793157941
+Amount:             3136858
+POS ID:             581375783932870
+Post Code:          98251
+Transaction Date:   14-09-2018 23:10:17
+Transaction Status: FRAUD
+
+----------------------------------------------------
+
+Card ID:            378001698534979
+Member ID:          989174793157941
+Amount:             2579795
+POS ID:             249408289575743
+Post Code:          49440
+Transaction Date:   19-06-2018 03:41:31
+Transaction Status: FRAUD
+
+----------------------------------------------------
+
+Card ID:            378001698534979
+Member ID:          989174793157941
+Amount:             9761791
+POS ID:             394047839504582
+Post Code:          68658
+Transaction Date:   26-08-2018 20:53:38
+Transaction Status: FRAUD
+
+----------------------------------------------------
+
+Card ID:            378001698534979
+Member ID:          989174793157941
+Amount:             4387050
+POS ID:             778792984543208
+Post Code:          10589
+Transaction Date:   29-05-2018 20:15:28
+Transaction Status: FRAUD
+
+----------------------------------------------------
+
+Card ID:            5289969859649714
+Member ID:          989548647998824
+Amount:             6133163
+POS ID:             50640228832249
+Post Code:          92003
+Transaction Date:   17-08-2018 14:51:26
+Transaction Status: FRAUD
+
+----------------------------------------------------
+
+Card ID:            5289969859649714
+Member ID:          989548647998824
+Amount:             5314196
+POS ID:             647754440315459
+Post Code:          38483
+Transaction Date:   28-04-2018 15:09:52
+Transaction Status: FRAUD
+
+----------------------------------------------------
+
+Card ID:            5289969859649714
+Member ID:          989548647998824
+Amount:             9396793
+POS ID:             541026183768198
+Post Code:          57020
+Transaction Date:   29-07-2018 01:21:55
+Transaction Status: FRAUD
+
+----------------------------------------------------
+
+Card ID:            5289969859649714
+Member ID:          989548647998824
+Amount:             5573814
+POS ID:             46882864293749
+Post Code:          49277
+Transaction Date:   29-08-2018 05:42:41
+Transaction Status: FRAUD
+
+----------------------------------------------------
+
+Card ID:            5162808285745682
+Member ID:          990571384923260
+Amount:             8267736
+POS ID:             907263856048836
+Post Code:          12475
+Transaction Date:   12-02-2018 11:04:37
+Transaction Status: FRAUD
+
+----------------------------------------------------
+
+Card ID:            5162808285745682
+Member ID:          990571384923260
+Amount:             1286742
+POS ID:             799890952798863
+Post Code:          70740
+Transaction Date:   14-08-2018 03:07:34
+Transaction Status: FRAUD
+
+----------------------------------------------------
+
+Card ID:            5162808285745682
+Member ID:          990571384923260
+Amount:             7704441
+POS ID:             642064306701900
+Post Code:          42083
+Transaction Date:   21-05-2018 10:24:23
+Transaction Status: FRAUD
+
+----------------------------------------------------
+
+Card ID:            5162808285745682
+Member ID:          990571384923260
+Amount:             4151898
+POS ID:             114426952631927
+Post Code:          19472
+Transaction Date:   23-11-2018 03:35:15
+Transaction Status: FRAUD
+
+----------------------------------------------------
+
+Card ID:            6224201777318321
+Member ID:          990740662283435
+Amount:             8628069
+POS ID:             879603859954975
+Post Code:          15692
+Transaction Date:   12-02-2018 20:52:21
+Transaction Status: FRAUD
+
+----------------------------------------------------
+
+Card ID:            6224201777318321
+Member ID:          990740662283435
+Amount:             7364428
+POS ID:             764391871747781
+Post Code:          12132
+Transaction Date:   03-11-2018 11:51:10
+Transaction Status: FRAUD
+
+----------------------------------------------------
+
+Card ID:            6224201777318321
+Member ID:          990740662283435
+Amount:             9079778
+POS ID:             197707765013658
+Post Code:          93256
+Transaction Date:   05-11-2018 10:12:14
+Transaction Status: FRAUD
+
+----------------------------------------------------
+
+Card ID:            6224201777318321
+Member ID:          990740662283435
+Amount:             3075253
+POS ID:             742497754634042
+Post Code:          36024
+Transaction Date:   09-06-2018 08:56:46
+Transaction Status: FRAUD
+
+----------------------------------------------------
+
+Card ID:            6224201777318321
+Member ID:          990740662283435
+Amount:             6400259
+POS ID:             815828595370933
+Post Code:          82332
+Transaction Date:   09-11-2018 06:09:31
+Transaction Status: FRAUD
+
+----------------------------------------------------
+
+Card ID:            6224201777318321
+Member ID:          990740662283435
+Amount:             4869668
+POS ID:             766640410940159
+Post Code:          45156
+Transaction Date:   11-07-2018 17:42:03
+Transaction Status: FRAUD
+
+----------------------------------------------------
+
+Card ID:            6224201777318321
+Member ID:          990740662283435
+Amount:             7395977
+POS ID:             742132594800573
+Post Code:          59531
+Transaction Date:   12-03-2018 07:33:45
+Transaction Status: FRAUD
+
+----------------------------------------------------
+
+Card ID:            5271320386643574
+Member ID:          991784667284668
+Amount:             7999076
+POS ID:             537979831136829
+Post Code:          51440
+Transaction Date:   01-09-2018 02:29:25
+Transaction Status: FRAUD
+
+----------------------------------------------------
+
+Card ID:            5271320386643574
+Member ID:          991784667284668
+Amount:             2777453
+POS ID:             537979831136829
+Post Code:          51440
+Transaction Date:   01-09-2018 06:13:42
+Transaction Status: FRAUD
+
+----------------------------------------------------
+
+Card ID:            5271320386643574
+Member ID:          991784667284668
+Amount:             2525875
+POS ID:             613584514493683
+Post Code:          14786
+Transaction Date:   03-04-2018 20:04:34
+Transaction Status: FRAUD
+
+----------------------------------------------------
+
+Card ID:            5271320386643574
+Member ID:          991784667284668
+Amount:             5092035
+POS ID:             527095381151248
+Post Code:          35144
+Transaction Date:   03-10-2018 13:29:16
+Transaction Status: FRAUD
+
+----------------------------------------------------
+
+Card ID:            5271320386643574
+Member ID:          991784667284668
+Amount:             3325672
+POS ID:             919418595863962
+Post Code:          25049
+Transaction Date:   16-10-2018 11:44:28
+Transaction Status: FRAUD
+
+----------------------------------------------------
+
+Card ID:            5271320386643574
+Member ID:          991784667284668
+Amount:             8516147
+POS ID:             474449894082347
+Post Code:          62821
+Transaction Date:   28-02-2018 08:29:05
+Transaction Status: FRAUD
+
+----------------------------------------------------
+
+Card ID:            5271320386643574
+Member ID:          991784667284668
+Amount:             7752425
+POS ID:             569335687828707
+Post Code:          61080
+Transaction Date:   29-10-2018 20:27:39
+Transaction Status: FRAUD
+
+----------------------------------------------------
+
+Card ID:            349805666286145
+Member ID:          991958482478439
+Amount:             2293932
+POS ID:             404091317932991
+Post Code:          17352
+Transaction Date:   03-07-2018 22:48:04
+Transaction Status: FRAUD
+
+----------------------------------------------------
+
+Card ID:            349805666286145
+Member ID:          991958482478439
+Amount:             7412087
+POS ID:             525673400410526
+Post Code:          93920
+Transaction Date:   18-05-2018 15:07:21
+Transaction Status: FRAUD
+
+----------------------------------------------------
+
+Card ID:            349805666286145
+Member ID:          991958482478439
+Amount:             3994349
+POS ID:             993791960367080
+Post Code:          99301
+Transaction Date:   18-09-2018 12:23:52
+Transaction Status: FRAUD
+
+----------------------------------------------------
+
+Card ID:            349805666286145
+Member ID:          991958482478439
+Amount:             150609
+POS ID:             167702860001465
+Post Code:          93563
+Transaction Date:   24-06-2018 01:48:45
+Transaction Status: FRAUD
+
+----------------------------------------------------
+
+Card ID:            349805666286145
+Member ID:          991958482478439
+Amount:             4083148
+POS ID:             867898777321133
+Post Code:          23024
+Transaction Date:   24-07-2018 11:28:06
+Transaction Status: FRAUD
+
+----------------------------------------------------
+
+Card ID:            349805666286145
+Member ID:          991958482478439
+Amount:             9036164
+POS ID:             111883495150693
+Post Code:          58535
+Transaction Date:   25-07-2018 02:25:13
+Transaction Status: FRAUD
+
+----------------------------------------------------
+
+Card ID:            349805666286145
+Member ID:          991958482478439
+Amount:             9258799
+POS ID:             795024189381990
+Post Code:          85356
+Transaction Date:   31-08-2018 20:30:34
+Transaction Status: FRAUD
+
+----------------------------------------------------
+
+Card ID:            5115273575078211
+Member ID:          992104321998571
+Amount:             5152923
+POS ID:             594126143804282
+Post Code:          71460
+Transaction Date:   12-06-2018 10:12:39
+Transaction Status: FRAUD
+
+----------------------------------------------------
+
+Card ID:            5115273575078211
+Member ID:          992104321998571
+Amount:             5051739
+POS ID:             105014899227203
+Post Code:          88421
+Transaction Date:   14-09-2018 10:27:45
+Transaction Status: FRAUD
+
+----------------------------------------------------
+
+Card ID:            5115273575078211
+Member ID:          992104321998571
+Amount:             8815715
+POS ID:             308274259106359
+Post Code:          74470
+Transaction Date:   20-02-2018 14:19:58
+Transaction Status: FRAUD
+
+----------------------------------------------------
+
+Card ID:            5115273575078211
+Member ID:          992104321998571
+Amount:             9233359
+POS ID:             107187548992543
+Post Code:          74937
+Transaction Date:   20-09-2018 15:14:04
+Transaction Status: FRAUD
+
+----------------------------------------------------
+
+Card ID:            5115273575078211
+Member ID:          992104321998571
+Amount:             2699863
+POS ID:             357517938491107
+Post Code:          71970
+Transaction Date:   26-06-2018 07:38:22
+Transaction Status: FRAUD
+
+----------------------------------------------------
+
+Card ID:            374878208630443
+Member ID:          992552823055811
+Amount:             3572843
+POS ID:             669559922070862
+Post Code:          78353
+Transaction Date:   01-08-2018 05:37:13
+Transaction Status: FRAUD
+
+----------------------------------------------------
+
+Card ID:            374878208630443
+Member ID:          992552823055811
+Amount:             5976289
+POS ID:             468445368892554
+Post Code:          16682
+Transaction Date:   02-05-2018 21:35:07
+Transaction Status: FRAUD
+
+----------------------------------------------------
+
+Card ID:            374878208630443
+Member ID:          992552823055811
+Amount:             5377849
+POS ID:             297495206423394
+Post Code:          45698
+Transaction Date:   03-03-2018 12:44:23
+Transaction Status: FRAUD
+
+----------------------------------------------------
+
+Card ID:            374878208630443
+Member ID:          992552823055811
+Amount:             5978475
+POS ID:             760950330774063
+Post Code:          50166
+Transaction Date:   03-08-2018 15:55:59
+Transaction Status: FRAUD
+
+----------------------------------------------------
+
+Card ID:            374878208630443
+Member ID:          992552823055811
+Amount:             8583604
+POS ID:             730276544142013
+Post Code:          98282
+Transaction Date:   07-09-2018 15:29:09
+Transaction Status: FRAUD
+
+----------------------------------------------------
+
+Card ID:            374878208630443
+Member ID:          992552823055811
+Amount:             4673583
+POS ID:             954422737205374
+Post Code:          24059
+Transaction Date:   10-11-2018 16:32:53
+Transaction Status: FRAUD
+
+----------------------------------------------------
+
+Card ID:            374878208630443
+Member ID:          992552823055811
+Amount:             6616826
+POS ID:             988284878216967
+Post Code:          12140
+Transaction Date:   22-05-2018 20:02:54
+Transaction Status: FRAUD
+
+----------------------------------------------------
+
+Card ID:            374878208630443
+Member ID:          992552823055811
+Amount:             4372776
+POS ID:             788940235137096
+Post Code:          50039
+Transaction Date:   28-08-2018 14:45:33
+Transaction Status: FRAUD
+
+----------------------------------------------------
+
+Card ID:            5399715069800093
+Member ID:          994983851226493
+Amount:             1682142
+POS ID:             299761619722557
+Post Code:          19475
+Transaction Date:   06-06-2018 14:24:35
+Transaction Status: FRAUD
+
+----------------------------------------------------
+
+Card ID:            5399715069800093
+Member ID:          994983851226493
+Amount:             4250239
+POS ID:             269224679945114
+Post Code:          37101
+Transaction Date:   08-07-2018 06:43:02
+Transaction Status: FRAUD
+
+----------------------------------------------------
+
+Card ID:            5399715069800093
+Member ID:          994983851226493
+Amount:             1909598
+POS ID:             503680928888859
+Post Code:          57367
+Transaction Date:   10-08-2018 18:23:08
+Transaction Status: FRAUD
+
+----------------------------------------------------
+
+Card ID:            5399715069800093
+Member ID:          994983851226493
+Amount:             1459865
+POS ID:             324324337129749
+Post Code:          32686
+Transaction Date:   13-02-2018 05:53:58
+Transaction Status: FRAUD
+
+----------------------------------------------------
+
+Card ID:            5399715069800093
+Member ID:          994983851226493
+Amount:             3932527
+POS ID:             520872633460928
+Post Code:          75848
+Transaction Date:   23-07-2018 18:16:25
+Transaction Status: FRAUD
+
+----------------------------------------------------
+
+Card ID:            5399715069800093
+Member ID:          994983851226493
+Amount:             871366
+POS ID:             151327687588286
+Post Code:          74081
+Transaction Date:   24-02-2018 01:18:58
+Transaction Status: FRAUD
+
+----------------------------------------------------
+
+Card ID:            4981548424137027
+Member ID:          996411635289270
+Amount:             2544660
+POS ID:             542517085184653
+Post Code:          50246
+Transaction Date:   02-03-2018 00:06:27
+Transaction Status: FRAUD
+
+----------------------------------------------------
+
+Card ID:            4981548424137027
+Member ID:          996411635289270
+Amount:             8803543
+POS ID:             613584514493683
+Post Code:          14786
+Transaction Date:   02-04-2018 17:09:45
+Transaction Status: FRAUD
+
+----------------------------------------------------
+
+Card ID:            4981548424137027
+Member ID:          996411635289270
+Amount:             3790459
+POS ID:             547195438110978
+Post Code:          33037
+Transaction Date:   06-12-2018 07:49:17
+Transaction Status: FRAUD
+
+----------------------------------------------------
+
+Card ID:            4981548424137027
+Member ID:          996411635289270
+Amount:             6432948
+POS ID:             441443948996372
+Post Code:          68073
+Transaction Date:   22-02-2018 17:55:01
+Transaction Status: FRAUD
+
+----------------------------------------------------
+
+Card ID:            5391723993945313
+Member ID:          997128952368160
+Amount:             8627658
+POS ID:             631422647450560
+Post Code:          42759
+Transaction Date:   04-06-2018 08:34:58
+Transaction Status: FRAUD
+
+----------------------------------------------------
+
+Card ID:            5391723993945313
+Member ID:          997128952368160
+Amount:             7951163
+POS ID:             736459445822597
+Post Code:          15732
+Transaction Date:   12-02-2018 05:27:34
+Transaction Status: FRAUD
+
+----------------------------------------------------
+
+Card ID:            5391723993945313
+Member ID:          997128952368160
+Amount:             6168734
+POS ID:             806746170457132
+Post Code:          18239
+Transaction Date:   09-07-2018 20:05:50
+Transaction Status: FRAUD
+
+----------------------------------------------------
+
+Card ID:            5391723993945313
+Member ID:          997128952368160
+Amount:             9215394
+POS ID:             818953995607489
+Post Code:          73066
+Transaction Date:   11-10-2018 10:37:48
+Transaction Status: FRAUD
+
+----------------------------------------------------
+
+Card ID:            5391723993945313
+Member ID:          997128952368160
+Amount:             4911951
+POS ID:             696749650010045
+Post Code:          29653
+Transaction Date:   24-05-2018 13:09:58
+Transaction Status: FRAUD
+
+----------------------------------------------------
+
+Card ID:            5391723993945313
+Member ID:          997128952368160
+Amount:             6880309
+POS ID:             665741760185820
+Post Code:          29346
+Transaction Date:   30-07-2018 01:17:19
+Transaction Status: FRAUD
+
+----------------------------------------------------
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+
+^C[ec2-user@ip-10-0-0-243 ~]$

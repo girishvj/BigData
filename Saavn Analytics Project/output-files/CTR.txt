@@ -1,0 +1,9 @@
+/*  Question 4: Top five notification IDs with highest CTR (click-through percentage) */
++---------+----------+------|
+notification_id |    CTR    |
+9661			|	0.643312|
+9667			|	0.247536|
+9692			|	0.210873|
+9700			|	0.096376|
+9703			|	0.086432|
++---------+-----|+---+-------

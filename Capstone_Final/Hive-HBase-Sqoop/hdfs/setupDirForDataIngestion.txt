@@ -1,0 +1,4 @@
+sudo su hdfs
+hdfs dfs -mkdir -p /user/ec2-user/capstone/card_transactions/
+hdfs dfs -chown -R root:supergroup /user/ec2-user/capstone/card_transactions/
+hadoop dfs -chmod -R 777 /user/ec2-user/capstone/card_transactions/

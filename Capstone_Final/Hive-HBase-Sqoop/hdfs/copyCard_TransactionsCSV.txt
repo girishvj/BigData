@@ -1,0 +1,1 @@
+hdfs dfs -copyFromLocal /home/ec2-user/card_transactions.csv /user/ec2-user/capstone/card_transactions/card_transactions.csv

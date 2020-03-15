@@ -1,0 +1,10 @@
+/* Question 5: This contains cluster information, which includes "User ID" and corresponding "Artist ID" */
++---------+-----+---
+|artist_id|UserId   |
++---------+---------|
+|   704354| 9612    |
+|   512453| 9660    |
+|   512453| 9660    |
+|   689580| 9673    |
+|   575153| 9607    |
++---------+---------|

@@ -1,0 +1,11 @@
+/* Question 6: Output file containing UserID, its associated ClusterID, and the popular artist*/
+
++---------+--------------------+---------+
+|ClusterId|              UserId|artistIds|
++---------+--------------------+---------+
+|       31|b6cb908178fc29e8e...|   704354|
+|       53|a8a601d0b429e55cb...|   512453|
+|       53|a291d38658bdaf00d...|   512453|
+|       93|f26ebdb7aa18f83f1...|   689580|
+|       47|6d465c9bea97716f5...|   575153|
+-+-----+---+----------+------------------+
